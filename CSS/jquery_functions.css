@@ -1,0 +1,27 @@
+body
+{
+    text-align: center;
+}
+.all_h
+{
+    margin: 0px;
+}
+.btn
+{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: darkcyan;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 40px;
+}
+.all_par
+{
+    display: inline-block;
+}
+.newclass
+{
+    background-color: red;
+}
